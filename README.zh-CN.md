@@ -4,36 +4,24 @@
 
 我也以 **Lawrence River** 的名字创作音乐。
 
-我是一名 **AI-native builder**，关注 AI Agent、计算机视觉与音乐科技。我喜欢用 Agent 把视觉与声音创意变成**可编辑、可测试的系统**。
+我是一名 **AI-native builder**，关注 AI Agent、计算机视觉与音乐科技。产品创意、方向与判断始终来自我自己。
 
-我从 2023 年开始 Vibe Coding。对我来说，AI 不只是生成代码的工具，也是探索产品想法、设计工作流、验证假设和快速跨越不同学科的协作伙伴。
+我从 2023 年开始深度使用 AI，主要用于市场调研、实现与验证，并把经过筛选的可靠工作流工程化为可复用的 Skill。
 
 🎓 北师香港浸会大学人工智能专业本科，预计 2027 年 6 月毕业  
 🌐 [个人网站](https://lawrenceriver.github.io/) · [邮箱](mailto:lawrencerivermusic@outlook.com) · [Spotify](https://open.spotify.com/artist/0qBwVBNlsXciLGqOvY1wwj) · [YouTube](https://www.youtube.com/@lawrenceriver_lhl)
 
 ---
 
-## 🔨 正在构建
+## 🔨 正在进行
 
-### AutoDraftman — 用 Agent 重构可编辑科研方法图
+### AutoDraftman
 
-这是我担任项目组长的毕业设计。我们搭建了一条将科研方法图重构为可编辑 SVG 的多阶段 Agent 工作流：
+一个探索 AI 辅助科研图形编辑的研究项目，更多内容将在项目成熟后公开。
 
-**视觉解析 → 结构规划 → SVG 构造 → 验证修复**
+### 音频创作工具
 
-我们通过 SVG 语义协议引入了层级、空间关系等三项约束。在当前评估中，裁切与局部识别算法达到 GPT 流程等效的 0 边缘误差，效率提升 3%，跨模型调用减少 50%，端到端耗时较 AutoFigure-Edit 降低 77%。
-
-### Spatial Mixing Audio Unit — 可解释的 Agent 空间混音
-
-一个面向 Logic Pro 的 Audio Unit 原型，将聚焦、频段让位、动态、声像与景深收敛为五个 DSP 宏参数：
-
-**轨道状态 → Track Agent → 安全约束 → 参数动作**
-
-三轨 Demo 共生成 12 条可解释调整计划，并通过 5/5 项自动化测试。
-
-### ContractSearch — 对话式 RAG 与 Tool Calling
-
-我为 2026 大学生计算机设计大赛设计的技术产品与 Agent 方案。它把检索、解读、实验、预审和收录统一到一个对话入口，衔接源码与 ABI 检索、AI 解读、Local EVM 实验和风险预审。
+一个源于个人音乐创作实践的实验性软件项目，目前仍在开发中。
 
 ---
 
