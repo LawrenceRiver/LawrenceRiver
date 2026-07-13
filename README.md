@@ -9,7 +9,7 @@ I'm an **AI-native builder** working across AI agents, computer vision, and musi
 I've been working with AI since 2023. I use it for market research, implementation, and validation, then turn reliable workflows into reusable Skills.
 
 🎓 BSc in Artificial Intelligence at Beijing Normal–Hong Kong Baptist University, expected June 2027  
-🌐 [Website](https://lawrenceriver.github.io/) · [Email](mailto:lawrencerivermusic@outlook.com) · [Spotify](https://open.spotify.com/artist/0qBwVBNlsXciLGqOvY1wwj) · [YouTube](https://www.youtube.com/@lawrenceriver_lhl)
+🌐 [Website](https://lawrenceriver.github.io/) · [Email](mailto:lawrencerivermusic@outlook.com) · [Spotify](https://open.spotify.com/artist/0qBwVBNlsXciLGqOvY1wwj) · [YouTube](https://www.youtube.com/@lawrenceriver_lhl) · [Bilibili](https://space.bilibili.com/3494359221667982) · [RedNote](https://www.xiaohongshu.com/user/profile/644cea2a00000000100282df)
 
 ---
 
