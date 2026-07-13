@@ -4,36 +4,24 @@
 
 I also make music as **Lawrence River**.
 
-I'm an **AI-native builder** working across AI agents, computer vision, and music technology. I build agentic tools that turn visual and sonic ideas into **editable, testable systems**.
+I'm an **AI-native builder** working across AI agents, computer vision, and music technology. Product ideas, creative direction, and judgment are my own.
 
-I've been vibe coding with AI since 2023—not only to generate code, but to explore product ideas, design workflows, test assumptions, and move across disciplines faster.
+I've been working with AI since 2023. I use it for market research, implementation, and validation, then turn reliable workflows into reusable Skills.
 
 🎓 BSc in Artificial Intelligence at Beijing Normal–Hong Kong Baptist University, expected June 2027  
 🌐 [Website](https://lawrenceriver.github.io/) · [Email](mailto:lawrencerivermusic@outlook.com) · [Spotify](https://open.spotify.com/artist/0qBwVBNlsXciLGqOvY1wwj) · [YouTube](https://www.youtube.com/@lawrenceriver_lhl)
 
 ---
 
-## 🔨 Currently building
+## 🔨 Work in progress
 
-### AutoDraftman — editable scientific figures with agents
+### AutoDraftman
 
-My graduation project and a team-led multi-stage agent workflow that reconstructs scientific method figures as editable SVG:
+A research project exploring AI-assisted tools for editing scientific figures. More details will be shared when the project is ready.
 
-**Visual parsing → structural planning → SVG construction → validation and repair**
+### Audio Creative Tool
 
-We introduced three SVG semantic constraints covering hierarchy and spatial relationships. In the current evaluation, our cropping/local-recognition algorithm matched the GPT-based workflow at zero edge error, improved efficiency by 3%, cut cross-model calls by 50%, and reduced end-to-end runtime by 77% versus AutoFigure-Edit.
-
-### Spatial Mixing Audio Unit — explainable agentic mixing
-
-A Logic Pro Audio Unit prototype that turns focus, frequency masking, dynamics, panning, and depth into five DSP macro controls:
-
-**Track state → Track Agent → safety constraints → parameter actions**
-
-The three-track demo produced 12 explainable adjustment plans and passed 5/5 automated tests.
-
-### ContractSearch — conversational RAG and tool calling
-
-Product and agent design for a 2026 Chinese Collegiate Computing Competition project. It brings retrieval, interpretation, experimentation, pre-review, and collection into one conversational entry point, connecting source/ABI retrieval, AI interpretation, Local EVM experiments, and risk pre-review.
+An experimental music software project built around my own creative workflow. Currently in development.
 
 ---
 
