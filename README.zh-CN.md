@@ -9,7 +9,7 @@
 我从 2023 年开始深度使用 AI，主要用于市场调研、实现与验证，并把经过筛选的可靠工作流工程化为可复用的 Skill。
 
 🎓 北师香港浸会大学人工智能专业本科，预计 2027 年 6 月毕业  
-🌐 [个人网站](https://lawrenceriver.github.io/) · [邮箱](mailto:lawrencerivermusic@outlook.com) · [Spotify](https://open.spotify.com/artist/0qBwVBNlsXciLGqOvY1wwj) · [YouTube](https://www.youtube.com/@lawrenceriver_lhl)
+🌐 [个人网站](https://lawrenceriver.github.io/) · [邮箱](mailto:lawrencerivermusic@outlook.com) · [Spotify](https://open.spotify.com/artist/0qBwVBNlsXciLGqOvY1wwj) · [YouTube](https://www.youtube.com/@lawrenceriver_lhl) · [哔哩哔哩](https://space.bilibili.com/3494359221667982) · [小红书](https://www.xiaohongshu.com/user/profile/644cea2a00000000100282df)
 
 ---
 
