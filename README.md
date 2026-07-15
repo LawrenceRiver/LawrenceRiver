@@ -4,7 +4,7 @@
 
 **AI undergraduate · AI native since 2023 · Independent musician Lawrence River**
 
-I build AI agent harnesses and explore computer vision, generative AI, reinforcement learning, and audio processing. Product ideas and judgment are my own; I use AI for research, implementation, validation, and turning reliable workflows into reusable Skills.
+I build AI agent harnesses and explore computer vision, generative AI, reinforcement learning, and audio processing. Most things I build start with a small everyday annoyance and the thought: there has to be an easier way. I use AI for research, implementation, validation, and turning reliable workflows into reusable Skills.
 
 ### Latest builds
 
