@@ -1,4 +1,4 @@
-![Profile artwork](./profile.svg)
+[![Profile artwork](./profile.svg)](https://lawrenceriver.github.io/)
 
 <p>
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stacked-text-interest-dark.svg"><img alt="Doing: Vision Agent and Music ML. Interest in music." src="./assets/stacked-text-interest-light.svg" width="168" height="140" align="right"></picture>
